@@ -1,5 +1,5 @@
 # Embedded-Systems-Design
-Embedded Systems Design Course (ES670) Project
+Embedded Systems Design Course Project
 
 ## 📋 Description
 The developed project consists of a temperature controller using the FRDM KL25 development kit coupled to the MCLAB2 peripheral board.
